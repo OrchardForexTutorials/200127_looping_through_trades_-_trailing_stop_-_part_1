@@ -3,7 +3,7 @@
 <!-- START_HEADER -->
 
 Youtube:
-{{VIDEO_DATA}}
+https://youtu.be/p33z8XfDeyo
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
