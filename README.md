@@ -1,13 +1,11 @@
 # Looping Through Trades - Trailing Stop - Part 1
 
 <!-- START_HEADER -->
-
 Youtube:  
 https://youtu.be/p33z8XfDeyo
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 Looping through trades is a common component of MT4 programming. In this video, a trade loop is used as the basis for creating a complete working expert advisor with a reusable trailing-stop function.
