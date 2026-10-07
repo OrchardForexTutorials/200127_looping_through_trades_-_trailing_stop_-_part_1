@@ -10,6 +10,8 @@ https://orchardforex.com/ic
 
 <!-- END_HEADER -->
 
+## Description
+
 Looping through trades is a common component of MT4 programming. In this video, a trade loop is used as the basis for creating a complete working expert advisor with a reusable trailing-stop function.
 
 The tutorial demonstrates how to:
